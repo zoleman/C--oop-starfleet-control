@@ -2,7 +2,7 @@
 
 namespace starfleet_control_csharp_zoleman.DockingResults
 {
-    internal class CargoManifest : DockingResult
+    public class CargoManifest : DockingResult
     {
         public int ShipRegistrationCode { get; }
         public CargoType CargoType { get; }

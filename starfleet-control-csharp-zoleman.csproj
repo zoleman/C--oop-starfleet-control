@@ -9,6 +9,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="starfleet-control-csharp-zoleman-tests\**" />
+    <EmbeddedResource Remove="starfleet-control-csharp-zoleman-tests\**" />
+    <None Remove="starfleet-control-csharp-zoleman-tests\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="Utils\names.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

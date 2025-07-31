@@ -1,0 +1,82 @@
+﻿@startuml
+Spacecraft <|-- MobileSpacecraft
+Spacecraft <|-- ImmobileSpacecraft
+ImmobileSpacecraft <|-- SpaceStation
+MobileSpacecraft <|-- DiscoveryShip
+MobileSpacecraft <|-- CargoShip
+DockingResult <|-- DiscoveryDockingResult
+DockingResult <|-- CargoManifest
+DiscoveryShip --> "logs" DiscoveryDockingResult
+
+abstract class Spacecraft
+{
+  +int RegistrationCode
+  +string Name
+  +int CommissionYear
+  #bool CanFly
+  +Spacecraft(int RegistrationCode, string Name, int CommissionYear)
+}
+
+abstract class ImmobileSpacecraft
+{
+  #bool CanFly = false
+  +ImmobileSpacecraft(int RegistrationCode, string Name, int CommissionYear) 
+  : base(RegistrationCode, Name, CommissionYear)
+}
+
+abstract class MobileSpacecraft
+{
+  +int MaxSpeed
+  -bool IsDocked
+  +MobileSpacecraft(int RegistrationCode, string Name, int CommissionYear, int BaseSpeed)
+  : base(RegistrationCode, Name, CommissionYear)
+  +{abstract} void Dock(SpaceStation station)
+}
+
+class SpaceStation
+{
+  +MobileSpacecraft[] SpaceDock
+  SpaceStation(int RegistrationCode, string Name, int CommissionYear)
+  : base(RegistrationCode, Name, CommissionYear)
+}
+
+class DiscoveryShip
+{
+  -{static} int CargoBaseSpeed
+  -List<DockingResult> _log
+  +DiscoveryShip(int RegistrationCode, string Name, int CommissionYear)
+  : base(RegistrationCode, Name, CommissionYear, CargoBaseSpeed)
+  + {override} void Dock(SpaceStation station)
+}
+
+class CargoShip
+{
+  -{static} int CargoBaseSpeed
+  + enum CargoType
+  + CargoType[] CargoBay
+  +int CargoAmount
+  +CargoShip(int RegistrationCode, string Name, int CommissionYear)
+  : base(RegistrationCode, Name, CommissionYear, CargoBaseSpeed)
+  + {override} void Dock(SpaceStation station)
+  +void PickUpNewCargo()
+}
+
+abstract class DockingResult
+{
+  +DockingResult()
+}
+
+class DiscoveryDockingResult 
+{
+  +DateTime DockingDate
+  +int StationRegistrationCode
+}
+
+class CargoManifest 
+{
+  +int ShipRegistrationCode
+  +CargoType CargoType
+  +int CargoAmount
+}
+
+@enduml
