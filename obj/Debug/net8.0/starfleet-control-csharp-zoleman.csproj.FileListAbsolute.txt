@@ -1,0 +1,16 @@
+J:\codecool\projects\starfleet-control-csharp-zoleman\bin\Debug\net8.0\starfleet-control-csharp-zoleman.exe
+J:\codecool\projects\starfleet-control-csharp-zoleman\bin\Debug\net8.0\starfleet-control-csharp-zoleman.deps.json
+J:\codecool\projects\starfleet-control-csharp-zoleman\bin\Debug\net8.0\starfleet-control-csharp-zoleman.runtimeconfig.json
+J:\codecool\projects\starfleet-control-csharp-zoleman\bin\Debug\net8.0\starfleet-control-csharp-zoleman.dll
+J:\codecool\projects\starfleet-control-csharp-zoleman\bin\Debug\net8.0\starfleet-control-csharp-zoleman.pdb
+J:\codecool\projects\starfleet-control-csharp-zoleman\obj\Debug\net8.0\starfleet-control-csharp-zoleman.GeneratedMSBuildEditorConfig.editorconfig
+J:\codecool\projects\starfleet-control-csharp-zoleman\obj\Debug\net8.0\starfleet-control-csharp-zoleman.AssemblyInfoInputs.cache
+J:\codecool\projects\starfleet-control-csharp-zoleman\obj\Debug\net8.0\starfleet-control-csharp-zoleman.AssemblyInfo.cs
+J:\codecool\projects\starfleet-control-csharp-zoleman\obj\Debug\net8.0\starfleet-control-csharp-zoleman.csproj.CoreCompileInputs.cache
+J:\codecool\projects\starfleet-control-csharp-zoleman\obj\Debug\net8.0\starfleet-control-csharp-zoleman.sourcelink.json
+J:\codecool\projects\starfleet-control-csharp-zoleman\obj\Debug\net8.0\starfleet-control-csharp-zoleman.dll
+J:\codecool\projects\starfleet-control-csharp-zoleman\obj\Debug\net8.0\refint\starfleet-control-csharp-zoleman.dll
+J:\codecool\projects\starfleet-control-csharp-zoleman\obj\Debug\net8.0\starfleet-control-csharp-zoleman.pdb
+J:\codecool\projects\starfleet-control-csharp-zoleman\obj\Debug\net8.0\starfleet-control-csharp-zoleman.genruntimeconfig.cache
+J:\codecool\projects\starfleet-control-csharp-zoleman\obj\Debug\net8.0\ref\starfleet-control-csharp-zoleman.dll
+J:\codecool\projects\starfleet-control-csharp-zoleman\bin\Debug\net8.0\Utils\names.txt
