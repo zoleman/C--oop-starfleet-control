@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "starfleet-control-csharp-zoleman", "starfleet-control-csharp-zoleman.csproj", "{9E2FEAC4-B2FE-4FC3-8532-3FA69261FA46}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "starfleet-control-csharp-zoleman-tests", "starfleet-control-csharp-zoleman-tests\starfleet-control-csharp-zoleman-tests.csproj", "{9270F690-6D11-42F7-9D9C-3AA53C84B8CA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9E2FEAC4-B2FE-4FC3-8532-3FA69261FA46} = {9E2FEAC4-B2FE-4FC3-8532-3FA69261FA46}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
