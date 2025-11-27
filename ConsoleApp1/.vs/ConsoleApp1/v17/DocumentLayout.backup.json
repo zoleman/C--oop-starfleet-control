@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\codecool\\projects\\starfleet-control-csharp-zoleman\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0091232-3783-4FCB-A4D5-8236529DD67E}|ConsoleApp1.csproj|j:\\codecool\\projects\\starfleet-control-csharp-zoleman\\consoleapp1\\rides\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0091232-3783-4FCB-A4D5-8236529DD67E}|ConsoleApp1.csproj|solutionrelative:rides\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0091232-3783-4FCB-A4D5-8236529DD67E}|ConsoleApp1.csproj|j:\\codecool\\projects\\starfleet-control-csharp-zoleman\\consoleapp1\\customers\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0091232-3783-4FCB-A4D5-8236529DD67E}|ConsoleApp1.csproj|solutionrelative:customers\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0091232-3783-4FCB-A4D5-8236529DD67E}|ConsoleApp1.csproj|j:\\codecool\\projects\\starfleet-control-csharp-zoleman\\consoleapp1\\park.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0091232-3783-4FCB-A4D5-8236529DD67E}|ConsoleApp1.csproj|solutionrelative:park.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0091232-3783-4FCB-A4D5-8236529DD67E}|ConsoleApp1.csproj|j:\\codecool\\projects\\starfleet-control-csharp-zoleman\\consoleapp1\\customers\\vipcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0091232-3783-4FCB-A4D5-8236529DD67E}|ConsoleApp1.csproj|solutionrelative:customers\\vipcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0091232-3783-4FCB-A4D5-8236529DD67E}|ConsoleApp1.csproj|j:\\codecool\\projects\\starfleet-control-csharp-zoleman\\consoleapp1\\customers\\budgetcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0091232-3783-4FCB-A4D5-8236529DD67E}|ConsoleApp1.csproj|solutionrelative:customers\\budgetcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0091232-3783-4FCB-A4D5-8236529DD67E}|ConsoleApp1.csproj|j:\\codecool\\projects\\starfleet-control-csharp-zoleman\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0091232-3783-4FCB-A4D5-8236529DD67E}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Park.cs",
+              "DocumentMoniker": "J:\\codecool\\projects\\starfleet-control-csharp-zoleman\\ConsoleApp1\\Park.cs",
+              "RelativeDocumentMoniker": "Park.cs",
+              "ToolTip": "J:\\codecool\\projects\\starfleet-control-csharp-zoleman\\ConsoleApp1\\Park.cs",
+              "RelativeToolTip": "Park.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:01:40.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VipCustomer.cs",
+              "DocumentMoniker": "J:\\codecool\\projects\\starfleet-control-csharp-zoleman\\ConsoleApp1\\Customers\\VipCustomer.cs",
+              "RelativeDocumentMoniker": "Customers\\VipCustomer.cs",
+              "ToolTip": "J:\\codecool\\projects\\starfleet-control-csharp-zoleman\\ConsoleApp1\\Customers\\VipCustomer.cs",
+              "RelativeToolTip": "Customers\\VipCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:57:09.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BudgetCustomer.cs",
+              "DocumentMoniker": "J:\\codecool\\projects\\starfleet-control-csharp-zoleman\\ConsoleApp1\\Customers\\BudgetCustomer.cs",
+              "RelativeDocumentMoniker": "Customers\\BudgetCustomer.cs",
+              "ToolTip": "J:\\codecool\\projects\\starfleet-control-csharp-zoleman\\ConsoleApp1\\Customers\\BudgetCustomer.cs",
+              "RelativeToolTip": "Customers\\BudgetCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:51:37.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "J:\\codecool\\projects\\starfleet-control-csharp-zoleman\\ConsoleApp1\\Customers\\Customer.cs",
+              "RelativeDocumentMoniker": "Customers\\Customer.cs",
+              "ToolTip": "J:\\codecool\\projects\\starfleet-control-csharp-zoleman\\ConsoleApp1\\Customers\\Customer.cs",
+              "RelativeToolTip": "Customers\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:44:45.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "J:\\codecool\\projects\\starfleet-control-csharp-zoleman\\ConsoleApp1\\Rides\\Ride.cs",
+              "RelativeDocumentMoniker": "Rides\\Ride.cs",
+              "ToolTip": "J:\\codecool\\projects\\starfleet-control-csharp-zoleman\\ConsoleApp1\\Rides\\Ride.cs",
+              "RelativeToolTip": "Rides\\Ride.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:25:41.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\codecool\\projects\\starfleet-control-csharp-zoleman\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "J:\\codecool\\projects\\starfleet-control-csharp-zoleman\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:21:16.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
